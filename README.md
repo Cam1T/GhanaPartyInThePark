@@ -1,11 +1,10 @@
 # GhanaPartyInThePark
 
 
-![GPITP App Logo@1x 1@1x](https://user-images.githubusercontent.com/71550013/122684939-759d2d00-d200-11eb-88b6-850ba77971ae.png)
 
+<img width="50" alt="GPITP App Logo@1x 1@2x" src="https://user-images.githubusercontent.com/71550013/122685011-e6dce000-d200-11eb-9c80-8f078993111a.png">
 
-![Group 2@1x](https://user-images.githubusercontent.com/71550013/122684955-89489380-d200-11eb-877b-1a6393059c1e.png)
-
+<img width="150" alt="Group 2@2x" src="https://user-images.githubusercontent.com/71550013/122685024-feb46400-d200-11eb-8710-a496f77b2ab2.png">
 
 
 
