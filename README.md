@@ -2,7 +2,7 @@
 
 ![GPITP App Logo@1x 1@1x](https://user-images.githubusercontent.com/71550013/122685113-62d72800-d201-11eb-9312-2b48423a33aa.png)
 
-![Group 2@1x](https://user-images.githubusercontent.com/71550013/122685123-6f5b8080-d201-11eb-85b0-fa55ad2c6346.png)
+<img width="2800" alt="Group 1@2x" src="https://user-images.githubusercontent.com/71550013/124466488-9cc23580-dd8e-11eb-9f14-6e31e0a3d155.png">
 
 
 About Ghana Party in the Park
