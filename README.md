@@ -24,4 +24,6 @@ Past Performances include
 Mr Eazi | Fuse ODG | Malik Berry | Chip | Kojo Funds | Wrecth32 | Tion Wayne | Don E |Sway | Afro B | AStar | Castro| Donaeo | Sarkodie | Kwamz n Flava | Tinchy Stryder | KiDi | Kuami Eugene | Kwesi Arthur | King Promise
 
 https://gpitp.com/
+
+
 https://apps.apple.com/us/app/gpitp/id1546076333
